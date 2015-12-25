@@ -6,4 +6,5 @@ Libraries and Services used
 ===========================
 * [Google Fonts](https://www.google.com/fonts)
 * [Bootstrap](http://getbootstrap.com/)
+* [Digital Ocean](https://www.digitalocean.com/)
 
