@@ -1,0 +1,11 @@
+name: ubuntu-drupal
+type: theme
+description: This is a test blog
+package: Custom
+core: 8.x
+libraries:
+  - test/style
+regions: 
+  myheader: My Header
+  content: Content
+  slider: Slider
